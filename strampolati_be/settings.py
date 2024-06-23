@@ -172,7 +172,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-CORS_ALLOWED_ORIGINS = ['http://localhost:3000']
+CORS_ALLOWED_ORIGINS = ['http://localhost:3000', 'https://www.strampolati.it']
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
